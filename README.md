@@ -7,7 +7,7 @@
 
 🛠 Skills section using icons or list
 
-# 🧠 Project section showcasing personal or academic work
+# 🧠 Project section showcasing personal
 
 📱 Responsive layout for mobile and desktop views
 
@@ -23,12 +23,19 @@ CSS3 – for styling and layout
 pgsql
 web-project-1/
 ├── index.html
+
 ├── about.html
+
 ├── contact.html
+
 ├── css/
+
 │   └── style.css
+
 ├── images/
+
 │   └── (your images here)
+
 └── README.md
 
 🚀 How to Use
